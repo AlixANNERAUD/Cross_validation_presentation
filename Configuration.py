@@ -2369,7 +2369,7 @@ c.ServePostProcessor.browser = 'firefox'
 
 ## Should the browser be opened automatically?
 #  Default: True
-# c.ServePostProcessor.open_in_browser = True
+c.ServePostProcessor.open_in_browser = False
 
 ## port for the server to listen on.
 #  Default: 8000
