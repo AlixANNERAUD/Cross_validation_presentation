@@ -1,2 +1,2 @@
 #!/bin/bash
-jupyter nbconvert --config=Configuration.py Presentation.ipynb
+jupyter nbconvert Presentation.ipynb --to slides
